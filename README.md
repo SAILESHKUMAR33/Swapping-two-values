@@ -18,9 +18,9 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-```
+``` python
 #Program to swap two values.
-#Developed by: saileshkumar a
+#Developed by: SaileshKumar A
 #Register no : 22003843
 n1,n2=int(input()),int(input())
 temp=n2
@@ -30,7 +30,8 @@ print("Swapped values are:",n1,n2)
 ```
 
 ## OUTPUT:
-![output](/swap%20values.png)
+
+![output1](/out1.png)
 
 
 
